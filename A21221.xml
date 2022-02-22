@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Her Maiesties most princelie answere, deliuered by her selfe at the court at VVhite-hall, on the last day of Nouember 1601 When the speaker of the lower house of parliament (assisted with the greatest part of the knights, and burgesses) had presented their humble thanks for her free and gracious sauour, in preuenting and reforming of sundry grieuances, by abuse of many grants, commonly called monopolies. The same being taken verbatim in writing by A.B. as neere as he could possibly set it downe.</title>
+            <author>Elizabeth I, Queen of England, 1533-1603.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1601</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21221</idno>
+            <idno type="STC">STC 7578</idno>
+            <idno type="STC">ESTC S114021</idno>
+            <idno type="EEBO-CITATION">99849249</idno>
+            <idno type="PROQUEST">99849249</idno>
+            <idno type="VID">14387</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21221)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 783:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Her Maiesties most princelie answere, deliuered by her selfe at the court at VVhite-hall, on the last day of Nouember 1601 When the speaker of the lower house of parliament (assisted with the greatest part of the knights, and burgesses) had presented their humble thanks for her free and gracious sauour, in preuenting and reforming of sundry grieuances, by abuse of many grants, commonly called monopolies. The same being taken verbatim in writing by A.B. as neere as he could possibly set it downe.</title>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+                  <author>A. B., fl. 1601.</author>
+               </titleStmt>
+               <extent>[1], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[R. Barker],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1601.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Sometimes also known as: The Golden Speech.--STC.</note>
+                  <note>Reproduction of the original in the Emmanuel College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monopolies --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14387:1" rendition="simple:additions"/>
+            <pb facs="tcp:14387:1" rendition="simple:additions"/>
+            <p>HER MAIESTIES moſt Princelie anſwere, deliuered by her ſelfe at the Court at <hi>VVhite-hall,</hi> on the laſt day of Nouem<g ref="char:EOLhyphen"/>ber 1601: When the Speaker of the Lower Houſe of Parliament (aſſiſted with the greateſt part of the Knights, and Burgeſſes) had preſented their humble thanks for her free and gracious fauour, in preuenting and reforming of ſundry grie<g ref="char:EOLhyphen"/>uances, by abuſe of many Grants, commonly called <hi>Monopolies.</hi>
+            </p>
+            <p>The ſame being taken <hi>verbatim</hi> in writing by <hi>A. B. </hi> as neere as he could poſsibly ſet it downe,</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>¶ Imprinted at London. ANNO 1601.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:14387:2"/>
+            <pb facs="tcp:14387:2"/>
+            <head>HER MAIESTIES moſt Princely anſwere, deliuered by her ſelfe at the Court at <hi>VVhitehall,</hi> on the laſt day of Nouember 1601. When the Speaker of the Lower Houſe of Parliament (aſſiſted with the greateſt part of the Knights, and Burgeſſes) had pre<g ref="char:EOLhyphen"/>ſented their humble thanks for her free and gracious fa<g ref="char:EOLhyphen"/>uour, in preuenting and reforming of ſundry grie<g ref="char:EOLhyphen"/>uances, by abuſe of many grants, commonly called MONOPOLIES: The ſame be<g ref="char:EOLhyphen"/>ing taken <hi>Verbatim</hi> in writing by A. B. as neere as he could poſſibly ſet it downe.</head>
+            <opener>
+               <salute>M. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E perceiue <hi>by you, whome we did conſtitute the mouth of our Lower Houſe, howe with euen conſent they are fallen into the due conſideration of the
+<pb n="2" facs="tcp:14387:3"/> precious gift of thankefulneſſe, most v<g ref="char:EOLhyphen"/>ſually least esteemed, where it is best deſerued. And therefore we charge you tell them how acceptable ſuch ſa<g ref="char:EOLhyphen"/>crifice is woorthily receiued of a louing King, who doubteth much whether the giuen thanks can be of more poiſe then the owed is to them: and ſuppoſe that they haue done more for vs, then they themſelues beleeue. And this is our reaſon: Who keepes their Souereigne from the lapſe of error, in which, by ig<g ref="char:EOLhyphen"/>norance, and not by intent, they might haue fallen; what thanke they deſerue, we know, though you may geſſe. And as nothing is more deere to vs then the lo<g ref="char:EOLhyphen"/>uing co<g ref="char:cmbAbbrStroke">̄</g>ſeruation of our ſubiects hearts, What an vndeſerued doubt might we haue incurred, if the abuſers of our liberality, the thrallers of our people,
+<pb n="3" facs="tcp:14387:3"/> the wringers of the poore, had not bene tolde vs! which, ere our heart or hand ſhould agree vnto, we wiſh we had nei<g ref="char:EOLhyphen"/>ther: and do thanke you the more, ſup<g ref="char:EOLhyphen"/>poſing that ſuch griefes touch not ſome amongst you in particular. We trust there reſides, in their conceits of vs, no ſuch ſimple cares of their good, whome we ſo deerly priſe, that our hand ſhould paſse ought that might iniure any, though they doubt not it is lawfull for our kingly ſtate to grant gifts of ſundry ſorts of who<g ref="char:cmbAbbrStroke">̄</g> we make election, either for ſeruice done, or merit to be deſerued, as being for a King to make choiſe on who<g ref="char:cmbAbbrStroke">̄</g> to beſtow benefits, more to one then an<g ref="char:EOLhyphen"/>other. You muſt not beguile your ſelues, nor wrong vs, to thinke that the gloſing lustre of a glistring glory of a Kings title may ſo extoll vs, that we thinke all
+<pb n="4" facs="tcp:14387:4"/> is lawfull what we liſt, not caring what we doe: Lord, how farre ſhould you be off from our conceits! For our part we vow vnto you, that we ſuppoſe Phyſi<g ref="char:EOLhyphen"/>cians aromaticall ſauours, which in the top of their potion they deceiue the Pa<g ref="char:EOLhyphen"/>tient with, or gilded drugges that they couer their bitter ſweet with, are not more beguilers of ſenſes, then the van<g ref="char:EOLhyphen"/>ting boaſt of a kingly name may de<g ref="char:EOLhyphen"/>ceiue the ignorant of ſuch an office. I grant, that ſuch a Prince as cares but for the dignity, nor paſſes not how the raines be guided, ſo he rule, to ſuch a one it may ſeeme an eaſie buſineſse. But you are cumbred (I dare aſſure) with no ſuch Prince, but ſuch a one, as lookes how to giue account afore ano<g ref="char:EOLhyphen"/>ther Tribunal ſeat then this world af<g ref="char:EOLhyphen"/>fords, and that hopes, that if wee diſ<g ref="char:EOLhyphen"/>charge
+<pb n="5" facs="tcp:14387:4"/> with conſcience what he biddes, will not lay to our charge the fault that our Substitutes (not being our crime) fall in. We thinke our ſelues most fortunately borne vnder ſuch a ſtarre, as we haue bene inabled by Gods power to haue ſaued you vnder our reigne, from forreigne foes, from Ty<g ref="char:EOLhyphen"/>rants rule, and from your owne ruine; and doe confeſse, that wee paſſe not ſo much to be a Queene, as to be a Queene of ſuch Subiects, for whom (God is witneſſe, without boaſt or vaunt) wee would willingly loſe our life, ere ſee ſuch to periſh. I bleſse God, he hath gi<g ref="char:EOLhyphen"/>uen me neuer this fault of feare; for he knowes best, whether euer feare poſseſt me, for all my dangers: I know it is his gift; and not to hide his glory, I ſay it. For were it not for conſcience, and for
+<pb n="6" facs="tcp:14387:5"/> your ſake, I would willingly yeeld ano<g ref="char:EOLhyphen"/>ther my place, ſo great is my pride in reigning, as ſhe that wiſheth no longer to be, then Best and Most would haue me ſo. You know our preſence can not aſsiſt each action, but muſt diſtribute in ſundrie ſorts to diuers kindes our com<g ref="char:EOLhyphen"/>mands. If they (as the greateſt num<g ref="char:EOLhyphen"/>ber bee commonly the woorſt) ſhoulde (as I doubt not but ſome doe) abuſe their charge, annoy whom they ſhould helpe, and diſhonour their king, whom they ſhould ſerue: yet we verely be<g ref="char:EOLhyphen"/>leeue, that all you will (in your beſt iudgement) diſcharge vs from ſuch guilts. Thus we commend vs to your constant faith, and your ſelues to your beſt fortunes.</hi>
+            </p>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>decorative figure</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:14387:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
